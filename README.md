@@ -1,6 +1,8 @@
 # Pen2Graph
 This project was done as a final project in CS 6172 at Cornell University. It automates the generation of visually matching node-edge graph programs from hand-drawn sketches by leveraging vision-language models and differential evolution, combining visual input with mathematical constraints to guide program earch.
 
+![Uploading Screenshot 2025-01-08 at 04.06.24.png…]()
+
 [Final Project Report](https://github.com/zzigak/Pen2Graph/blob/main/pen2graph.pdf)
 
 
