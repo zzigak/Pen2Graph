@@ -1,6 +1,7 @@
 # Pen2Graph
 This project automates the generation of visually matching node-edge graph programs from hand-drawn sketches by leveraging vision-language models and differential evolution, combining visual input with mathematical constraints to guide program earch.
 
+[a link](https://github.com/zzigak/Pen2Graph/blob/main/pen2graph.pdf)
 
 
 ## Overview
