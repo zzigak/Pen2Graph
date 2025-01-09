@@ -16,3 +16,13 @@ Using these inputs, the system:
 1. Generates a parametrized program (e.g., in Matplotlib) via a vision-language model (VLM).
 2. Optimizes the program's parameters using differential evolution to produce a rendering that visually matches the input sketch.
 
+## Sample Results
+### Hand-drawn to program 
+<img width="316" alt="2" src="https://github.com/user-attachments/assets/d63892ce-a1f4-46f2-98d2-0d3eafd0b26b" />
+
+### Synthetic to program
+<img width="368" alt="1" src="https://github.com/user-attachments/assets/9ed2340e-2a9f-4846-8be4-2ea22d23558b" />
+
+
+
+
